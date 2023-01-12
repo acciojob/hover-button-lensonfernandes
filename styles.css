@@ -5,12 +5,12 @@
     background: black;
     color: white;
     border-radius: 5px;
-    border-style: none;
+/*     border-style: none; */
 }
 
 #btn:hover{
     background: yellow;
     border-radius: 30px;
     color: black;
-	 border-style: none;
+/* 	 border-style: none; */
 }
